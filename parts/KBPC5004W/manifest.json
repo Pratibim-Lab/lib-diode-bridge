@@ -1,0 +1,17 @@
+{
+  "id": "Diode_Bridge/KBPC5004W:KBPC5004W",
+  "name": "KBPC5004W",
+  "library": "Diode_Bridge",
+  "file": "Diode_Bridge.kicad_symdir/KBPC5004W.kicad_sym",
+  "description": "Single-Phase Bridge Rectifier, 280V Vrms, 50A If, KBPC-W(WS)",
+  "datasheet": "https://www.diodemodule.com/bridge-rectifier/kbpc/kbpc5004t.pdf",
+  "keywords": "diode full",
+  "footprint": "Diode_THT:Diode_Bridge_GeneSiC_KBPC_W",
+  "extends": "B40C1500G",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-diode-bridge@master/parts/KBPC5004W/",
+  "part_path": "parts/KBPC5004W",
+  "symbol_file": "parts/KBPC5004W/KBPC5004W.kicad_sym",
+  "source_library": "Diode_Bridge.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:02:49.895Z"
+}

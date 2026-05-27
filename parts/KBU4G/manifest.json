@@ -1,0 +1,17 @@
+{
+  "id": "Diode_Bridge/KBU4G:KBU4G",
+  "name": "KBU4G",
+  "library": "Diode_Bridge",
+  "file": "Diode_Bridge.kicad_symdir/KBU4G.kicad_sym",
+  "description": "Single-Phase Bridge Rectifier, 280V Vrms, 4.0A If, KBU package",
+  "datasheet": "http://www.vishay.com/docs/88656/kbu4.pdf",
+  "keywords": "rectifier acdc",
+  "footprint": "Diode_THT:Diode_Bridge_Vishay_KBU",
+  "extends": "KBU4A",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-diode-bridge@master/parts/KBU4G/",
+  "part_path": "parts/KBU4G",
+  "symbol_file": "parts/KBU4G/KBU4G.kicad_sym",
+  "source_library": "Diode_Bridge.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:02:49.927Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Diode_Bridge/DNA40U2200GU:DNA40U2200GU",
+  "name": "DNA40U2200GU",
+  "library": "Diode_Bridge",
+  "file": "Diode_Bridge.kicad_symdir/DNA40U2200GU.kicad_sym",
+  "description": "690V Vrms, 40A If, GUFP(X025B)",
+  "datasheet": "https://ixapps.ixys.com/Datasheet/DNA40U2200GU.pdf",
+  "keywords": "Three-Phase Bridge Rectifier",
+  "footprint": "Diode_THT:Diode_Bridge_IXYS_GUFP",
+  "extends": "GUO40-08NO1",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-diode-bridge@master/parts/DNA40U2200GU/",
+  "part_path": "parts/DNA40U2200GU",
+  "symbol_file": "parts/DNA40U2200GU/DNA40U2200GU.kicad_sym",
+  "source_library": "Diode_Bridge.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:02:49.693Z"
+}

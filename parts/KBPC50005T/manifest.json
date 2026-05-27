@@ -1,0 +1,17 @@
+{
+  "id": "Diode_Bridge/KBPC50005T:KBPC50005T",
+  "name": "KBPC50005T",
+  "library": "Diode_Bridge",
+  "file": "Diode_Bridge.kicad_symdir/KBPC50005T.kicad_sym",
+  "description": "Single-Phase Bridge Rectifier, 35V Vrms, 50A If, KBPC-T(FP)",
+  "datasheet": "https://www.diodemodule.com/bridge-rectifier/kbpc/kbpc50005t.pdf",
+  "keywords": "diode full",
+  "footprint": "",
+  "extends": "B40C1500G",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-diode-bridge@master/parts/KBPC50005T/",
+  "part_path": "parts/KBPC50005T",
+  "symbol_file": "parts/KBPC50005T/KBPC50005T.kicad_sym",
+  "source_library": "Diode_Bridge.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:02:49.876Z"
+}

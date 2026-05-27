@@ -1,0 +1,17 @@
+{
+  "id": "Diode_Bridge/B80C2300-1500A:B80C2300-1500A",
+  "name": "B80C2300-1500A",
+  "library": "Diode_Bridge",
+  "file": "Diode_Bridge.kicad_symdir/B80C2300-1500A.kicad_sym",
+  "description": "Silicon Bridge Rectifier, 80V Vrms, 1.5A If, pins=-AA+, SIL-package",
+  "datasheet": "https://diotec.com/tl_files/diotec/files/pdf/datasheets/b40c2300.pdf",
+  "keywords": "rectifier acdc",
+  "footprint": "Diode_THT:Diode_Bridge_19.0x3.5x10.0mm_P5.0mm",
+  "extends": "B40C2300-1500A",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-diode-bridge@master/parts/B80C2300-1500A/",
+  "part_path": "parts/B80C2300-1500A",
+  "symbol_file": "parts/B80C2300-1500A/B80C2300-1500A.kicad_sym",
+  "source_library": "Diode_Bridge.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:02:49.638Z"
+}

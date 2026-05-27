@@ -1,0 +1,17 @@
+{
+  "id": "Diode_Bridge/MB8S:MB8S",
+  "name": "MB8S",
+  "library": "Diode_Bridge",
+  "file": "Diode_Bridge.kicad_symdir/MB8S.kicad_sym",
+  "description": "Bridge Rectifier, 560V Vrms, 35A Ifsm, 0.5A If(av), SOIC-4 (Onsemi CASE 751EP)",
+  "datasheet": "https://www.onsemi.com/pdf/datasheet/mb8s-d.pdf",
+  "keywords": "Onsemi diode-bridge",
+  "footprint": "Package_SO:OnSemi_751EP_SOIC-4_3.9x4.725mm_P2.54mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-diode-bridge@master/parts/MB8S/",
+  "part_path": "parts/MB8S",
+  "symbol_file": "parts/MB8S/MB8S.kicad_sym",
+  "source_library": "Diode_Bridge.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:02:49.983Z"
+}

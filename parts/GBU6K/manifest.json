@@ -1,0 +1,17 @@
+{
+  "id": "Diode_Bridge/GBU6K:GBU6K",
+  "name": "GBU6K",
+  "library": "Diode_Bridge",
+  "file": "Diode_Bridge.kicad_symdir/GBU6K.kicad_sym",
+  "description": "Single-Phase Bridge Rectifier, 560V Vrms, 6.0A If, GBU package",
+  "datasheet": "http://www.vishay.com/docs/88656/gbu6a.pdf",
+  "keywords": "rectifier acdc",
+  "footprint": "Diode_THT:Diode_Bridge_Vishay_GBU",
+  "extends": "GBU4A",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-diode-bridge@master/parts/GBU6K/",
+  "part_path": "parts/GBU6K",
+  "symbol_file": "parts/GBU6K/GBU6K.kicad_sym",
+  "source_library": "Diode_Bridge.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:02:49.729Z"
+}

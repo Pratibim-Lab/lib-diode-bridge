@@ -1,0 +1,17 @@
+{
+  "id": "Diode_Bridge/B500R:B500R",
+  "name": "B500R",
+  "library": "Diode_Bridge",
+  "file": "Diode_Bridge.kicad_symdir/B500R.kicad_sym",
+  "description": "Single-Phase Bridge Rectifier, 500V Vrms, 1.6A If, WOG-like package",
+  "datasheet": "https://diotec.com/tl_files/diotec/files/pdf/datasheets/b40r.pdf",
+  "keywords": "rectifier acdc",
+  "footprint": "Diode_THT:Diode_Bridge_Round_D9.0mm",
+  "extends": "B40R",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-diode-bridge@master/parts/B500R/",
+  "part_path": "parts/B500R",
+  "symbol_file": "parts/B500R/B500R.kicad_sym",
+  "source_library": "Diode_Bridge.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:02:49.632Z"
+}

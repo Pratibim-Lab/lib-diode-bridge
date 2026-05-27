@@ -1,0 +1,17 @@
+{
+  "id": "Diode_Bridge/KBPC3510T:KBPC3510T",
+  "name": "KBPC3510T",
+  "library": "Diode_Bridge",
+  "file": "Diode_Bridge.kicad_symdir/KBPC3510T.kicad_sym",
+  "description": "Single-Phase Bridge Rectifier, 700V Vrms, 35A If, KBPC-T(FP)",
+  "datasheet": "https://www.diodemodule.com/bridge-rectifier/kbpc/kbpc3510t.pdf",
+  "keywords": "diode full",
+  "footprint": "",
+  "extends": "B40C1500G",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-diode-bridge@master/parts/KBPC3510T/",
+  "part_path": "parts/KBPC3510T",
+  "symbol_file": "parts/KBPC3510T/KBPC3510T.kicad_sym",
+  "source_library": "Diode_Bridge.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:02:49.870Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Diode_Bridge/SC35VB80S-G:SC35VB80S-G",
+  "name": "SC35VB80S-G",
+  "library": "Diode_Bridge",
+  "file": "Diode_Bridge.kicad_symdir/SC35VB80S-G.kicad_sym",
+  "description": "560V Vrms, 35A If, SCVB-L",
+  "datasheet": "https://www.comchiptech.com/admin/files/product/SC35VB80S-G%20Thru506369.%20SC35VB160S-G%20RevB.pdf",
+  "keywords": "Three-Phase Bridge Rectifier",
+  "footprint": "Diode_THT:Diode_Bridge_Comchip_SCVB-L",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-diode-bridge@master/parts/SC35VB80S-G/",
+  "part_path": "parts/SC35VB80S-G",
+  "symbol_file": "parts/SC35VB80S-G/SC35VB80S-G.kicad_sym",
+  "source_library": "Diode_Bridge.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:02:50.038Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Diode_Bridge/MBL110S:MBL110S",
+  "name": "MBL110S",
+  "library": "Diode_Bridge",
+  "file": "Diode_Bridge.kicad_symdir/MBL110S.kicad_sym",
+  "description": "Miniature Glass Passivated Single-Phase Surface Mount Bridge Rectifiers, 700V Vrms, 1.0A If, MBLS SMD package",
+  "datasheet": "http://www.vishay.com/docs/89959/mbl104s.pdf",
+  "keywords": "rectifier acdc",
+  "footprint": "Diode_SMD:Diode_Bridge_Vishay_MBLS",
+  "extends": "MBL104S",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-diode-bridge@master/parts/MBL110S/",
+  "part_path": "parts/MBL110S",
+  "symbol_file": "parts/MBL110S/MBL110S.kicad_sym",
+  "source_library": "Diode_Bridge.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:02:49.995Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Diode_Bridge/VS-KBPC1005:VS-KBPC1005",
+  "name": "VS-KBPC1005",
+  "library": "Diode_Bridge",
+  "file": "Diode_Bridge.kicad_symdir/VS-KBPC1005.kicad_sym",
+  "description": "Single-Phase Bridge Rectifier, 20V Vrms, 3.0A If, KBPC1 package",
+  "datasheet": "http://www.vishay.com/docs/93585/vs-kbpc1series.pdf",
+  "keywords": "rectifier acdc",
+  "footprint": "Diode_THT:Diode_Bridge_Vishay_KBPC1",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-diode-bridge@master/parts/VS-KBPC1005/",
+  "part_path": "parts/VS-KBPC1005",
+  "symbol_file": "parts/VS-KBPC1005/VS-KBPC1005.kicad_sym",
+  "source_library": "Diode_Bridge.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:02:50.043Z"
+}

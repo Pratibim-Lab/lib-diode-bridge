@@ -1,0 +1,17 @@
+{
+  "id": "Diode_Bridge/DF005S:DF005S",
+  "name": "DF005S",
+  "library": "Diode_Bridge",
+  "file": "Diode_Bridge.kicad_symdir/DF005S.kicad_sym",
+  "description": "Bridge Rectifier, 35V Vrms, 1.5A If, SMDIP-4",
+  "datasheet": "https://www.onsemi.com/download/data-sheet/pdf/df10s-d.pdf",
+  "keywords": "rectifier acdc",
+  "footprint": "Diode_SMD:Diode_Bridge_OnSemi_SDIP-4L",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-diode-bridge@master/parts/DF005S/",
+  "part_path": "parts/DF005S",
+  "symbol_file": "parts/DF005S/DF005S.kicad_sym",
+  "source_library": "Diode_Bridge.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:02:49.656Z"
+}

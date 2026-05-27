@@ -1,0 +1,17 @@
+{
+  "id": "Diode_Bridge/W01G:W01G",
+  "name": "W01G",
+  "library": "Diode_Bridge",
+  "file": "Diode_Bridge.kicad_symdir/W01G.kicad_sym",
+  "description": "Glass Passivated Single-Phase Bridge Rectifier, 70V Vrms, 1.5A If, WOG package",
+  "datasheet": "https://www.vishay.com/docs/88769/woo5g.pdf",
+  "keywords": "Bridge Rectifier acdc",
+  "footprint": "Diode_THT:Diode_Bridge_Round_D9.8mm",
+  "extends": "B40C1500G",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-diode-bridge@master/parts/W01G/",
+  "part_path": "parts/W01G",
+  "symbol_file": "parts/W01G/W01G.kicad_sym",
+  "source_library": "Diode_Bridge.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:02:50.107Z"
+}

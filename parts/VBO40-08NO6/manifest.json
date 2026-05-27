@@ -1,0 +1,17 @@
+{
+  "id": "Diode_Bridge/VBO40-08NO6:VBO40-08NO6",
+  "name": "VBO40-08NO6",
+  "library": "Diode_Bridge",
+  "file": "Diode_Bridge.kicad_symdir/VBO40-08NO6.kicad_sym",
+  "description": "Standard rectifier, Vrrm = 800V, Idav = 40A, SOT-227 (minibloc, ISOTOP)",
+  "datasheet": "https://www.mouser.com/datasheet/2/240/media-3321323.pdf",
+  "keywords": "IXYS ACDC-rectifier diode-bridge",
+  "footprint": "Package_TO_SOT_THT:SOT-227",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-diode-bridge@master/parts/VBO40-08NO6/",
+  "part_path": "parts/VBO40-08NO6",
+  "symbol_file": "parts/VBO40-08NO6/VBO40-08NO6.kicad_sym",
+  "source_library": "Diode_Bridge.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:02:50.041Z"
+}

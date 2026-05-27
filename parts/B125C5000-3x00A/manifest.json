@@ -1,0 +1,17 @@
+{
+  "id": "Diode_Bridge/B125C5000-3x00A:B125C5000-3x00A",
+  "name": "B125C5000-3x00A",
+  "library": "Diode_Bridge",
+  "file": "Diode_Bridge.kicad_symdir/B125C5000-3x00A.kicad_sym",
+  "description": "Silicon Bridge Rectifier, 125V Vrms, 3.3A If, pins=-AA+, SIL-package",
+  "datasheet": "https://diotec.com/tl_files/diotec/files/pdf/datasheets/b40c500033",
+  "keywords": "rectifier acdc",
+  "footprint": "Diode_THT:Diode_Bridge_32.0x5.6x17.0mm_P10.0mm_P7.5mm",
+  "extends": "B40C5000-3x00A",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-diode-bridge@master/parts/B125C5000-3x00A/",
+  "part_path": "parts/B125C5000-3x00A",
+  "symbol_file": "parts/B125C5000-3x00A/B125C5000-3x00A.kicad_sym",
+  "source_library": "Diode_Bridge.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:02:49.537Z"
+}

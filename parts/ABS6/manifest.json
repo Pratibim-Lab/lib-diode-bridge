@@ -1,0 +1,17 @@
+{
+  "id": "Diode_Bridge/ABS6:ABS6",
+  "name": "ABS6",
+  "library": "Diode_Bridge",
+  "file": "Diode_Bridge.kicad_symdir/ABS6.kicad_sym",
+  "description": "Miniature Glass Passivated Single-Phase Surface Mount Bridge Rectifiers, 420V Vrms, 0.8A If, ABS SMD package",
+  "datasheet": "https://diotec.com/tl_files/diotec/files/pdf/datasheets/abs2.pdf",
+  "keywords": "rectifier acdc",
+  "footprint": "Diode_SMD:Diode_Bridge_Diotec_ABS",
+  "extends": "ABS2",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-diode-bridge@master/parts/ABS6/",
+  "part_path": "parts/ABS6",
+  "symbol_file": "parts/ABS6/ABS6.kicad_sym",
+  "source_library": "Diode_Bridge.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:02:49.522Z"
+}

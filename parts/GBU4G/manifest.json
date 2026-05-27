@@ -1,0 +1,17 @@
+{
+  "id": "Diode_Bridge/GBU4G:GBU4G",
+  "name": "GBU4G",
+  "library": "Diode_Bridge",
+  "file": "Diode_Bridge.kicad_symdir/GBU4G.kicad_sym",
+  "description": "Single-Phase Bridge Rectifier, 280V Vrms, 4.0A If, GBU package",
+  "datasheet": "http://www.vishay.com/docs/88656/gbu4a.pdf",
+  "keywords": "rectifier acdc",
+  "footprint": "Diode_THT:Diode_Bridge_Vishay_GBU",
+  "extends": "GBU4A",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-diode-bridge@master/parts/GBU4G/",
+  "part_path": "parts/GBU4G",
+  "symbol_file": "parts/GBU4G/GBU4G.kicad_sym",
+  "source_library": "Diode_Bridge.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:02:49.703Z"
+}

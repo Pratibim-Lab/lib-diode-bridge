@@ -1,0 +1,17 @@
+{
+  "id": "Diode_Bridge/MDB10S:MDB10S",
+  "name": "MDB10S",
+  "library": "Diode_Bridge",
+  "file": "Diode_Bridge.kicad_symdir/MDB10S.kicad_sym",
+  "description": "Single-Phase Bridge Rectifier, 700V Vrms, 1A If, TSSOP-4",
+  "datasheet": "https://www.onsemi.com/pub/Collateral/MDB8S-D.PDF",
+  "keywords": "bridge diode rectifier ac dc acdc ac-dc",
+  "footprint": "Package_SO:TSSOP-4_4.4x5mm_P4mm",
+  "extends": "MDB6S",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-diode-bridge@master/parts/MDB10S/",
+  "part_path": "parts/MDB10S",
+  "symbol_file": "parts/MDB10S/MDB10S.kicad_sym",
+  "source_library": "Diode_Bridge.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:02:49.997Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Diode_Bridge/VS-KBPC810:VS-KBPC810",
+  "name": "VS-KBPC810",
+  "library": "Diode_Bridge",
+  "file": "Diode_Bridge.kicad_symdir/VS-KBPC810.kicad_sym",
+  "description": "Single-Phase Bridge Rectifier, 500V Vrms, 8.0A If, KBPC6 package",
+  "datasheet": "http://www.vishay.com/docs/93586/kbpc8series.pdf",
+  "keywords": "rectifier acdc",
+  "footprint": "Diode_THT:Diode_Bridge_Vishay_KBPC6",
+  "extends": "VS-KBPC8005",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-diode-bridge@master/parts/VS-KBPC810/",
+  "part_path": "parts/VS-KBPC810",
+  "symbol_file": "parts/VS-KBPC810/VS-KBPC810.kicad_sym",
+  "source_library": "Diode_Bridge.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:02:50.098Z"
+}

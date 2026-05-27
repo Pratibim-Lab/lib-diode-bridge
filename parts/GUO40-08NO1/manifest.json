@@ -1,0 +1,17 @@
+{
+  "id": "Diode_Bridge/GUO40-08NO1:GUO40-08NO1",
+  "name": "GUO40-08NO1",
+  "library": "Diode_Bridge",
+  "file": "Diode_Bridge.kicad_symdir/GUO40-08NO1.kicad_sym",
+  "description": "250V Vrms, 40A If, GUFP(X025B)",
+  "datasheet": "https://ixapps.ixys.com/DataSheet/GUO40-08NO1.pdf",
+  "keywords": "Three-Phase Bridge Rectifier",
+  "footprint": "Diode_THT:Diode_Bridge_IXYS_GUFP",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-diode-bridge@master/parts/GUO40-08NO1/",
+  "part_path": "parts/GUO40-08NO1",
+  "symbol_file": "parts/GUO40-08NO1/GUO40-08NO1.kicad_sym",
+  "source_library": "Diode_Bridge.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:02:49.752Z"
+}

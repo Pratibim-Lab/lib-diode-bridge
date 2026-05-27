@@ -1,0 +1,17 @@
+{
+  "id": "Diode_Bridge/B80C800DM:B80C800DM",
+  "name": "B80C800DM",
+  "library": "Diode_Bridge",
+  "file": "Diode_Bridge.kicad_symdir/B80C800DM.kicad_sym",
+  "description": "Glass Passivated Single-Phase Bridge Rectifier, 80V Vrms, 0.8A If, DIP-4",
+  "datasheet": "https://www.vishay.com/docs/88533/800dm.pdf",
+  "keywords": "rectifier acdc",
+  "footprint": "Diode_THT:Diode_Bridge_DIP-4_W7.62mm_P5.08mm",
+  "extends": "B40C800DM",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-diode-bridge@master/parts/B80C800DM/",
+  "part_path": "parts/B80C800DM",
+  "symbol_file": "parts/B80C800DM/B80C800DM.kicad_sym",
+  "source_library": "Diode_Bridge.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:02:49.649Z"
+}

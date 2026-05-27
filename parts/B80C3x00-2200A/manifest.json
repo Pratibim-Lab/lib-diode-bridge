@@ -1,0 +1,17 @@
+{
+  "id": "Diode_Bridge/B80C3x00-2200A:B80C3x00-2200A",
+  "name": "B80C3x00-2200A",
+  "library": "Diode_Bridge",
+  "file": "Diode_Bridge.kicad_symdir/B80C3x00-2200A.kicad_sym",
+  "description": "Silicon Bridge Rectifier, 80V Vrms, 2.2A If, pins=-AA+, SIL-package",
+  "datasheet": "https://diotec.com/tl_files/diotec/files/pdf/datasheets/b40c3700",
+  "keywords": "rectifier acdc",
+  "footprint": "Diode_THT:Diode_Bridge_32.0x5.6x17.0mm_P10.0mm_P7.5mm",
+  "extends": "B40C5000-3x00A",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-diode-bridge@master/parts/B80C3x00-2200A/",
+  "part_path": "parts/B80C3x00-2200A",
+  "symbol_file": "parts/B80C3x00-2200A/B80C3x00-2200A.kicad_sym",
+  "source_library": "Diode_Bridge.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:02:49.643Z"
+}

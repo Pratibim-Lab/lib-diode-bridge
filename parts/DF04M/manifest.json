@@ -1,0 +1,17 @@
+{
+  "id": "Diode_Bridge/DF04M:DF04M",
+  "name": "DF04M",
+  "library": "Diode_Bridge",
+  "file": "Diode_Bridge.kicad_symdir/DF04M.kicad_sym",
+  "description": "Miniature Glass Passivated Single-Phase Bridge Rectifiers, 280V Vrms, 1.0A If, DIP-4",
+  "datasheet": "http://www.vishay.com/docs/88571/dfm.pdf",
+  "keywords": "rectifier acdc",
+  "footprint": "Diode_THT:Diode_Bridge_DIP-4_W7.62mm_P5.08mm",
+  "extends": "B40C800DM",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-diode-bridge@master/parts/DF04M/",
+  "part_path": "parts/DF04M",
+  "symbol_file": "parts/DF04M/DF04M.kicad_sym",
+  "source_library": "Diode_Bridge.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:02:49.670Z"
+}

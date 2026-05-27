@@ -1,0 +1,17 @@
+{
+  "id": "Diode_Bridge/RMB4S:RMB4S",
+  "name": "RMB4S",
+  "library": "Diode_Bridge",
+  "file": "Diode_Bridge.kicad_symdir/RMB4S.kicad_sym",
+  "description": "Miniature Glass Passivated Single-Phase Surface Mount Bridge Rectifiers, 280V Vrms, 0.5A If, TO-269AA",
+  "datasheet": "http://www.vishay.com/docs/88705/rmbs.pdf",
+  "keywords": "rectifier acdc",
+  "footprint": "Package_TO_SOT_SMD:TO-269AA",
+  "extends": "MB2S",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-diode-bridge@master/parts/RMB4S/",
+  "part_path": "parts/RMB4S",
+  "symbol_file": "parts/RMB4S/RMB4S.kicad_sym",
+  "source_library": "Diode_Bridge.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:02:50.033Z"
+}

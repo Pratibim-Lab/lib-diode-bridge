@@ -1,0 +1,17 @@
+{
+  "id": "Diode_Bridge/GBU8G:GBU8G",
+  "name": "GBU8G",
+  "library": "Diode_Bridge",
+  "file": "Diode_Bridge.kicad_symdir/GBU8G.kicad_sym",
+  "description": "Single-Phase Bridge Rectifier, 280V Vrms, 8.0A If, GBU package",
+  "datasheet": "http://www.vishay.com/docs/88656/gbu8a.pdf",
+  "keywords": "rectifier acdc",
+  "footprint": "Diode_THT:Diode_Bridge_Vishay_GBU",
+  "extends": "GBU4A",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-diode-bridge@master/parts/GBU8G/",
+  "part_path": "parts/GBU8G",
+  "symbol_file": "parts/GBU8G/GBU8G.kicad_sym",
+  "source_library": "Diode_Bridge.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:02:49.741Z"
+}

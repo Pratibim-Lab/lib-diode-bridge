@@ -1,0 +1,17 @@
+{
+  "id": "Diode_Bridge/RB151:RB151",
+  "name": "RB151",
+  "library": "Diode_Bridge",
+  "file": "Diode_Bridge.kicad_symdir/RB151.kicad_sym",
+  "description": "Single-Phase Bridge Rectifier, 35V Vrms, 1.5A If, WOG-like package",
+  "datasheet": "https://www.rectron.com/public/product_datasheets/rb151-rb157.pdf",
+  "keywords": "rectifier acdc",
+  "footprint": "Diode_THT:Diode_Bridge_Round_D9.0mm",
+  "extends": "B40R",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-diode-bridge@master/parts/RB151/",
+  "part_path": "parts/RB151",
+  "symbol_file": "parts/RB151/RB151.kicad_sym",
+  "source_library": "Diode_Bridge.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:02:50.006Z"
+}

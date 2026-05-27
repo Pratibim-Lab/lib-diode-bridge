@@ -1,0 +1,17 @@
+{
+  "id": "Diode_Bridge/MB6S:MB6S",
+  "name": "MB6S",
+  "library": "Diode_Bridge",
+  "file": "Diode_Bridge.kicad_symdir/MB6S.kicad_sym",
+  "description": "Miniature Glass Passivated Single-Phase Surface Mount Bridge Rectifiers, 700V Vrms, 1.0A If, DFS SMD package",
+  "datasheet": "http://www.vishay.com/docs/88573/dfs.pdf",
+  "keywords": "rectifier acdc",
+  "footprint": "Package_TO_SOT_SMD:TO-269AA",
+  "extends": "MB2S",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-diode-bridge@master/parts/MB6S/",
+  "part_path": "parts/MB6S",
+  "symbol_file": "parts/MB6S/MB6S.kicad_sym",
+  "source_library": "Diode_Bridge.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:02:49.981Z"
+}

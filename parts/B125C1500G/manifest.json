@@ -1,0 +1,17 @@
+{
+  "id": "Diode_Bridge/B125C1500G:B125C1500G",
+  "name": "B125C1500G",
+  "library": "Diode_Bridge",
+  "file": "Diode_Bridge.kicad_symdir/B125C1500G.kicad_sym",
+  "description": "Glass Passivated Single-Phase Bridge Rectifier, 125V Vrms, 1.5A If, WOG package",
+  "datasheet": "https://www.vishay.com/docs/88501/b40c1500g.pdf",
+  "keywords": "rectifier acdc",
+  "footprint": "Diode_THT:Diode_Bridge_Round_D9.8mm",
+  "extends": "B40C1500G",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-diode-bridge@master/parts/B125C1500G/",
+  "part_path": "parts/B125C1500G",
+  "symbol_file": "parts/B125C1500G/B125C1500G.kicad_sym",
+  "source_library": "Diode_Bridge.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:02:49.527Z"
+}
